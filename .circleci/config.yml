@@ -1,4 +1,3 @@
-➜  .circleci git:(master) cat config.yml 
 version: 2
 jobs:
   build:
